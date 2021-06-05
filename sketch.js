@@ -42,7 +42,7 @@ function preload(){
   playBTN=loadImage("play.png");
   startBTN=loadImage("start0.png");
   boom_ani=loadImage("boom.png");
-  over_ani=loadImage("over.png");
+  over_ani=loadImage("gvom.png");
   restartBTN=loadImage("greenBTN.png");
   setBTN=loadImage("settings.png");
 }
