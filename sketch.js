@@ -99,6 +99,7 @@ function setup(){
   over=createSprite(250,350,20,20);
   over.addAnimation("ov",over_ani);
   over.visible=false;
+  over.scale=0.4;
 
   restart=createSprite(250,500,20,20);
   restart.addAnimation("rs",restartBTN);
